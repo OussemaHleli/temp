@@ -1,0 +1,10 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="200" fill="#fef2f2"/>
+  <circle cx="150" cy="60" r="25" fill="#ef4444"/>
+  <rect x="125" y="85" width="50" height="80" rx="10" fill="#ef4444"/>
+  <circle cx="140" cy="100" r="6" fill="#ffffff"/>
+  <circle cx="160" cy="100" r="6" fill="#ffffff"/>
+  <rect x="145" y="110" width="10" height="15" fill="#ffffff"/>
+  <text x="150" y="140" font-family="Arial" font-size="18" fill="#ffffff" text-anchor="middle">!</text>
+  <text x="150" y="180" text-anchor="middle" font-family="Arial" font-size="14" fill="#dc2626">Important Sign</text>
+</svg>

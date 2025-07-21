@@ -1,0 +1,10 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="200" fill="#fffbeb"/>
+  <circle cx="150" cy="60" r="25" fill="#f59e0b"/>
+  <rect x="125" y="85" width="50" height="80" rx="10" fill="#f59e0b"/>
+  <circle cx="140" cy="100" r="6" fill="#ffffff"/>
+  <circle cx="160" cy="100" r="6" fill="#ffffff"/>
+  <path d="M 145 115 Q 150 125 155 115" stroke="#ffffff" stroke-width="3" fill="none"/>
+  <text x="150" y="140" font-family="Arial" font-size="20" fill="#ffffff" text-anchor="middle">?</text>
+  <text x="150" y="180" text-anchor="middle" font-family="Arial" font-size="14" fill="#d97706">Where Sign</text>
+</svg>
